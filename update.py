@@ -13,7 +13,7 @@ query($login: String!, $cursor: String) {
     repositories(ownerAffiliations: OWNER, first: 100, after: $cursor) {
       totalCount
       pageInfo { hasNextPage endCursor }
-      nodes { stargazers { totalCount } }
+      nodes { stargazerCount }
     }
   }
 }
@@ -29,7 +29,10 @@ def graphql(variables):
     r.raise_for_status()
     data = r.json()
     if "errors" in data:
-        raise RuntimeError(data["errors"])
+        # Alleen stoppen als er helemaal geen data terugkwam
+        print("Waarschuwing van GitHub:", data["errors"])
+        if not data.get("data") or not data["data"].get("user"):
+            raise RuntimeError(data["errors"])
     return data["data"]["user"]
 
 # Alle repos ophalen (per 100) en de stars optellen
@@ -37,7 +40,7 @@ stars, cursor = 0, None
 while True:
     user = graphql({"login": USER, "cursor": cursor})
     repos = user["repositories"]
-    stars += sum(n["stargazers"]["totalCount"] for n in repos["nodes"])
+    stars += sum((n or {}).get("stargazerCount") or 0 for n in repos["nodes"])
     if not repos["pageInfo"]["hasNextPage"]:
         break
     cursor = repos["pageInfo"]["endCursor"]
