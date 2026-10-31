@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="830" font-family="Consolas,'Courier New',monospace" font-size="15">
+<style>
+.key{fill:#953800} .value{fill:#0a3069} .cc{fill:#c2cfde}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985" height="830" fill="#f6f8fa" rx="15"/>
+<text x="20" y="35" fill="#24292f" class="ascii">
+<tspan x="20" y="35">   .   . .     .    .     .   .*@@%:        </tspan>
+<tspan x="20" y="53">                  ..      ... :%@@@%. .:%@@@</tspan>
+<tspan x="20" y="71">          .    .        :#@@*.:%@@@@- :@@@@%</tspan>
+<tspan x="20" y="89">                        -@@@@#.#@@@@+.%@@@@:</tspan>
+<tspan x="20" y="107">         ..       ..    .%@@@@*=@@@@@*@@@@*.</tspan>
+<tspan x="20" y="125">  .      :@%:.       .  .-@@@@@@@@@@@@@@@@+.</tspan>
+<tspan x="20" y="143">         .#@@%-.          -@@@@@@@@@@@@@@@*.</tspan>
+<tspan x="20" y="161">   .    ..#@@@@@=.         -@@@@@@@@@@@@@@@:</tspan>
+<tspan x="20" y="179">       . .#@@@@@@@=.    .   :%@@@@@@@@@@@@@=</tspan>
+<tspan x="20" y="197"> ..     ..*@@@@@@@@@:... .:#@@@@@@@@@@@@@@@-</tspan>
+<tspan x="20" y="215"> .       .#@@@@@@@@@@#: :%@@@@@@@@@@@@@@@@*.</tspan>
+<tspan x="20" y="233">    .    .#@@@@@@@@@@@@:.*@@@@@@@@@@@@@@@:  </tspan>
+<tspan x="20" y="251">         .#@@@@@@@@@@@@@%:     .:+@@@@@+. ..</tspan>
+<tspan x="20" y="269">       . .#@@@@@@@@@@@@@@@-.       .=@@-    </tspan>
+<tspan x="20" y="287">         :%@@@@@@@@@@@@@@@@#...     .#@:   .</tspan>
+<tspan x="20" y="305">    . .. :@@@@@@@@@@@@@@@@@@@.. .    *@-    </tspan>
+<tspan x="20" y="323">         :@@@@@#+===+++*%@@@@@=.     *@:  . </tspan>
+<tspan x="20" y="341">    .    -@@@*:.-===+++++#@=.%@=    -@%.   .</tspan>
+<tspan x="20" y="359">        .=@@#=======++++**@*. *@%**%@%:     </tspan>
+<tspan x="20" y="377">.        *@@#++===+++++**#@=  .*@@@@@:      </tspan>
+<tspan x="20" y="395">        .@@@@*++++++*####@*..  .*@@@*. .    </tspan>
+<tspan x="20" y="413"> .      =@@#%@*++++*###@@-      .*@@*.      </tspan>
+<tspan x="20" y="431">   . . :@@%..-#@@@@@@@*-.        :%@*..     </tspan>
+<tspan x="20" y="449">      .#@@+.  ........   .  .     :@@- .    </tspan>
+<tspan x="20" y="467">     :%@@@- .                      -@@....  </tspan>
+<tspan x="20" y="485">   .=@@@@%.     .    .        .   ..+@%.   .</tspan>
+<tspan x="20" y="503">  .+@%+@@+     .    .               :%@+.  .</tspan>
+<tspan x="20" y="521"> .-@#.-@@.   .      .  . .     .  .  =@%:   </tspan>
+<tspan x="20" y="539"> .=@=.*@#            .      . .. .   .#@+  .</tspan>
+<tspan x="20" y="557">. :@+.@@:.    .       .               :@@.. </tspan>
+<tspan x="20" y="575"> . *@+@%.      .               .    . .#@=  </tspan>
+<tspan x="20" y="593">   :@@@*.   .          .   .  .       .=@%. </tspan>
+<tspan x="20" y="611">.  :@@@=         .                     -%@: </tspan>
+<tspan x="20" y="629">. .*@@%:                    .          .%@= </tspan>
+<tspan x="20" y="647"> .*@@@#...              .      .    .  .#@+.</tspan>
+<tspan x="20" y="665">:@@@@@+   .  .                . .      .#@*.</tspan>
+<tspan x="20" y="683">@@@@@@-  . .     .-*@@@@@@%=..     .   .#@*.</tspan>
+<tspan x="20" y="701">-%@%%@.       .-%@@@+-:::-+@@%-.    .  .#@*.</tspan>
+<tspan x="20" y="719"> . :@%.   . .+@@%=. .      .-%@#.      .%@+.</tspan>
+<tspan x="20" y="737">   -@% .  .*@@*:.            .=@@=.    -%@= </tspan>
+<tspan x="20" y="755">   -@@:.:*@@+.           .   . :@@+.  .=@@: </tspan>
+<tspan x="20" y="773">   .#@@@@#-..      .    .     . .*@%:.-@@-. </tspan>
+<tspan x="20" y="791">      ..        .        . .     .=@@@@#:   </tspan>
+</text>
+
+<text x="430" y="35" fill="#24292f">
+<tspan x="430" y="35">djafari.kangezi</tspan> -—————————————————————————————————————-—-
+<tspan x="430" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="430" y="80" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">20 years</tspan>
+<tspan x="430" y="100" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode</tspan>
+<tspan x="430" y="130" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Java, Typescript, C#</tspan>
+<tspan x="430" y="150" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Dutch, English, French, German</tspan>
+<tspan x="430" y="180" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Gaming, Programming</tspan>
+<tspan x="430" y="220">- Contact</tspan> -—————————————————————————————————————-—-
+<tspan x="430" y="245" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">djafari.kangezi@ap.student.be</tspan>
+<tspan x="430" y="265" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">ubenx</tspan>
+<tspan x="430" y="305">- GitHub Stats</tspan> -————————————————————————————————-—-
+<tspan x="430" y="330" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ......................................... </tspan><tspan class="value" id="repo_data">0</tspan>
+<tspan x="430" y="350" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ......................................... </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="430" y="370" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..................................... </tspan><tspan class="value" id="follower_data">0</tspan>
+</text>
+</svg>
