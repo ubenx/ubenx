@@ -63,7 +63,7 @@ text, tspan {white-space: pre;}
 <tspan x="430" y="245" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">djafari.kangezi@ap.student.be</tspan>
 <tspan x="430" y="265" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">ubenx</tspan>
 <tspan x="430" y="305">- GitHub Stats</tspan> -————————————————————————————————-—-
-<tspan x="430" y="330" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ......................................... </tspan><tspan class="value" id="repo_data">3</tspan>
+<tspan x="430" y="330" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ......................................... </tspan><tspan class="value" id="repo_data">4</tspan>
 <tspan x="430" y="350" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ......................................... </tspan><tspan class="value" id="star_data">0</tspan>
 <tspan x="430" y="370" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ..................................... </tspan><tspan class="value" id="follower_data">4</tspan>
 </text>
